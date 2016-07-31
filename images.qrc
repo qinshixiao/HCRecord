@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/exitBtn.png</file>
+        <file>images/close.png</file>
+        <file>images/max.png</file>
+        <file>images/min.png</file>
+        <file>images/search.png</file>
+        <file>images/add.png</file>
+        <file>images/highsearch.png</file>
+        <file>images/know.png</file>
+        <file>images/programName.png</file>
+        <file>images/programName2.png</file>
+        <file>images/birthday.png</file>
+        <file>images/growup.png</file>
+        <file>images/say.png</file>
+        <file>images/statistic.png</file>
+        <file>images/addbk.jpg</file>
+        <file>images/lineEditbk.png</file>
+        <file>images/stackbk.png</file>
+        <file>images/skin1.jpg</file>
+        <file>images/skin0.jpg</file>
+        <file>images/skin2.jpg</file>
+        <file>images/skin3.jpg</file>
+        <file>images/skin4.jpg</file>
+        <file>images/skinBtn.png</file>
+        <file>images/skin5.jpg</file>
+        <file>images/skin6.jpg</file>
+        <file>images/skin8.jpg</file>
+        <file>images/welcomeInfo.jpg</file>
+        <file>images/skin7.jpg</file>
+    </qresource>
+</RCC>
